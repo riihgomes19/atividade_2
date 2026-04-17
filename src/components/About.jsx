@@ -4,9 +4,10 @@ export default function About() {
     <section id="sobre" className="intro">
       <h2>Sobre Mim</h2>
       <p>
-        Olá! Meu nome é Ricardo, sou desenvolvedor apaixonado por tecnologia.
-        Tenho experiência com PHP, JavaScript, Java e Python.
-        Sempre busco aprender novas tecnologias.
+        Sou Ricardo Gomes, desenvolvedor em formação com foco na criação de interfaces modernas, 
+        funcionais e responsivas. Tenho experiência no desenvolvimento de aplicações web utilizando 
+        tecnologias como HTML, CSS, JavaScript e React, buscando sempre aplicar boas práticas de 
+        organização, componentização e reutilização de código.
       </p>
     </section>
   );
